@@ -3,8 +3,8 @@
 Порядок сборки приложения:
 1. Установить зависимости через requirements.txt
 2. Запустить:  
-``` python cloudphoto.py ### ```- Windows;
-``` .\cloudphoto.py ### ```  - для Linux
+``` python cloudphoto.py ### ```- Windows;  
+``` .\cloudphoto.py ### ```  - для Linux  
 (В данном случае *###* - необходимая команда с параметрами) 
 
 Функции приложения:
